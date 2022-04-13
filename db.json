@@ -1,6 +1,6 @@
 {
-  "profile": {
-    "name": "typicode"
+  "helloworld": {
+    "text": "Hello World!"
   }
 }
 
